@@ -2,6 +2,8 @@
 
 ## Tiến độ
 
+Checklist chi tiết (tick khi xong): [TIEN-DO.md](TIEN-DO.md)
+
 | Giai đoạn | File | Trạng thái |
 |---|---|---|
 | 1. Tổng quan tài liệu & chọn phần cứng | [stage-1-tong-quan-phan-cung.md](stage-1-tong-quan-phan-cung.md) | Đang làm |
